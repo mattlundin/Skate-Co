@@ -565,6 +565,12 @@ form {
 	.footer-links {
 		margin-left: 0;
 	}
+	.contact-links {
+		justify-content: center;
+		width: 100%;
+		margin: 2rem 0;
+		padding: 0;
+	}
 }
 
 /* ANIMATIONS */
