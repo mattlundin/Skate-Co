@@ -456,6 +456,7 @@ form {
 		margin: 7px;
 		background-color: #fff;
 		border-radius: 3px;
+		user-select: none;
 		transition: 0.4s ease-in-out;
 	}
 	.burger .line:nth-child(2) {
