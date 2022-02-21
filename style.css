@@ -449,6 +449,7 @@ form {
 		right: 0;
 		margin-right: 1rem;
 		cursor: pointer;
+		user-select: none;
 	}
 	.burger .line {
 		height: 4px;
